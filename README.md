@@ -12,16 +12,18 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/retran/meow/raw/dev/assets/icon_small.png" alt="Meow Logo" width="200">
-<br>
+
+<img src="https://github.com/retran/meow/raw/dev/assets/icon_small.png" alt="Meow Logo" width="200" /><br />
+
 <strong>meow.yarn.nvim - Untangle Your Code's Relationships</strong>
+
 </div>
 
 Ever feel like you're unraveling a tangled ball of yarn when navigating your codebase? `meow.yarn.nvim` is here to help. It provides a simple, beautiful, and interactive way to explore LSP hierarchies without the usual clutter. Forget getting lost in endless definitions and references; **`meow.yarn.nvim` visualizes type and call hierarchies in a clean, intuitive tree view**.
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 <div align="center">
 
@@ -32,19 +34,19 @@ Ever feel like you're unraveling a tangled ball of yarn when navigating your cod
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-- **🌲 Clean, Interactive Tree**: Shows hierarchies in a straightforward, expandable list
-- **🧬 Type & Call Hierarchies**: Explore both supertypes/subtypes and callers/callees of functions
-- **📄 Live Preview**: Instantly see the relevant code for any item you select in the tree
-- **🎯 Jump to Definition**: Press Enter on any item to go directly to its location in the code
-- **🔄 Explore Deeper**: Pick any symbol in the tree and make it the new starting point for exploration, or switch directions (e.g., from callers to callees) on the fly
-- **💨 Fast & Non-Blocking**: Fully asynchronous so it won't freeze your Neovim
-- **🚀 Built on Solid Foundations**: Powered by Neovim's native LSP and [nui.nvim](https://github.com/MunifTanjim/nui.nvim)
+- **Clean, Interactive Tree**: Shows hierarchies in a straightforward, expandable list
+- **Type & Call Hierarchies**: Explore both supertypes/subtypes and callers/callees of functions
+- **Live Preview**: Instantly see the relevant code for any item you select in the tree
+- **Jump to Definition**: Press Enter on any item to go directly to its location in the code
+- **Explore Deeper**: Pick any symbol in the tree and make it the new starting point for exploration, or switch directions (e.g., from callers to callees) on the fly
+- **Fast & Non-Blocking**: Fully asynchronous so it won't freeze your Neovim
+- **Built on Solid Foundations**: Powered by Neovim's native LSP and [nui.nvim](https://github.com/MunifTanjim/nui.nvim)
 
 ---
 
-## 📋 Prerequisites
+## Prerequisites
 
 ### Required
 
@@ -56,7 +58,7 @@ Ever feel like you're unraveling a tangled ball of yarn when navigating your cod
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Installation
 
@@ -114,7 +116,7 @@ The plugin provides the `:MeowYarn` command to open hierarchy views.
 
 ---
 
-## ⚙️ Configuration and Mappings
+## Configuration and Mappings
 
 ### Default Configuration
 
@@ -201,7 +203,7 @@ Inside the hierarchy view, the following default keymappings are available:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
@@ -212,13 +214,13 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ---
 
-## 📄 License
+## License
 
 Licensed under the MIT License. See [`LICENSE`](LICENSE) for details.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 `meow.yarn.nvim` would not be possible without these amazing projects:
 
@@ -237,7 +239,7 @@ Licensed under the MIT License. See [`LICENSE`](LICENSE) for details.
 
 **Happy coding with `project meow`! 🐱**
 
-Made with ❤️ by Andrew Vasilyev and feline assistants
+Made with ❤️ by Andrew Vasilyev and feline assistants Sonya Blade, Mila, and Marcus Fenix.
 
 [Report Bug](https://github.com/retran/meow.yarn.nvim/issues) ·
 [Request Feature](https://github.com/retran/meow.yarn.nvim/issues) ·
